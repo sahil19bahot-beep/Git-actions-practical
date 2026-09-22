@@ -26,4 +26,4 @@ jobs:
           cat output.txt
 
       - name: Run Python program
-        run: python3 hello.py
+        run: python3 hellosahil.py
